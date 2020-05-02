@@ -1,0 +1,19 @@
+{
+  "name": "rest-query-builder",
+  "version": "0.0.1",
+  "description": "A query builder following API Design guidelines from Microsoft. https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "query",
+    "filter",
+    "odata",
+    "microsoft",
+    "api"
+  ],
+  "author": "Arnaud Christ",
+  "license": "ISC"
+}
